@@ -3,14 +3,41 @@
     height: 120px;
 }
 
+.imagem {
+    width: 420px;
+    height: 420px;
+}
+
+
+.title {
+    font-family: "Fira Code", sans-serif;
+    font-size: 50px;
+}
+
+.subtitle {
+    font-family: "Fira Code", sans-serif;
+    font-size: 30px;
+}
+
+body {
+    font: 20px "Fira Code", sans-serif;
+}
+
 .navbar {
     background-color: #33FF5E;
 }
 
 .quemsomos {
     background-color: #33BBFF;
+    color: #FFF
+}
+
+.parceiros {
+    background-color: #DAF7A6;
+    color: #000;
 }
 
 .margin {
     padding-top: 40px;
+    padding-bottom: 40px;
 }
